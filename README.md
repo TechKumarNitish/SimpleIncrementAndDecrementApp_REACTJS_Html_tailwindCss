@@ -4,7 +4,7 @@ This is  for creating React projects (simple increment and decrement web app) wi
 
 ## Usage
 
-This starter pack includes a basic setup for using **Tailwind CSS with React**. To start building your own components and styles, follow these steps:
+To start building your own components and styles, follow these steps:
 
 1. Clone the repository to your local machine.
     ```sh
