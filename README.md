@@ -1,4 +1,4 @@
-# React & Tailwind CSS Starter Pack
+# Simple Increment and Decrement web app by REACT JS
 
 This is  for creating React projects (simple increment and decrement web app) with Tailwind CSS configured. It uses React version **18.2** and Tailwind CSS version **3.2**.
 
