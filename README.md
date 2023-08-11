@@ -13,7 +13,7 @@ To start building your own components and styles, follow these steps:
 
 1. Install the required packages.
     ```sh
-    cd react-tailwind-css-starter-pack
+    cd SimpleIncrementAndDecrementApp_REACTJS_Html_tailwindCss
     npm install
     ```
 
